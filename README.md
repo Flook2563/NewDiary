@@ -1,0 +1,2 @@
+# NewDiary
+Used for education.
