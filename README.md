@@ -37,3 +37,5 @@ Used for education.( เป็นแอพเพื่อการศึกษ�
 7. เมื่อกดเข้าไปดูจะโชว์ายละเอียด
 
 ![alt text](https://cdn.discordapp.com/attachments/519863669765570579/772760510248124456/unknown.png)
+
+credit : Ogundiran Al-Ameen and rodrigobastosv
